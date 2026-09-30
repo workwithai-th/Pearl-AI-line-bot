@@ -1,0 +1,6 @@
+.env
+chatlog-*.txt
+cloudflared*
+__pycache__/
+*.pyc
+venv/
